@@ -1,0 +1,17 @@
+{
+    "Dismiss": "Descartar",
+    "powered by Matrix": "powered by Matrix",
+    "Unknown device": "Dispositivo desconhecido",
+    "You need to be using HTTPS to place a screen-sharing call.": "Necessita de estar a usar HTTPS para poder iniciar uma chamada com partilha de ecrã.",
+    "Welcome to Element": "Bem-vindo ao Element",
+    "Decentralised, encrypted chat &amp; collaboration powered by [matrix]": "Chat descentralizado, encriptado &amp; colaborativo powered by [matrix]",
+    "The message from the parser is: %(message)s": "A mensagem do parser é: %(message)s",
+    "Invalid JSON": "JSON inválido",
+    "Unexpected error preparing the app. See console for details.": "Erro inesperado na preparação da aplicação. Veja a consola para mais detalhes.",
+    "Invalid configuration: can only specify one of default_server_config, default_server_name, or default_hs_url.": "Configuração inválida: só pode especificar uma das default_server_config, default_server_name, ou default_hs_url.",
+    "Invalid configuration: no default server specified.": "Configuração inválida: servidor padrão não especificado.",
+    "Sign In": "Iniciar sessão",
+    "Create Account": "Criar conta",
+    "Explore rooms": "Explorar rooms",
+    "Go to your browser to complete Sign In": "Abra o seu navegador para completar o inicio de sessão"
+}

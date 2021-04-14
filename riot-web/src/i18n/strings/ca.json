@@ -1,0 +1,14 @@
+{
+    "Dismiss": "Omet",
+    "Unknown device": "Dispositiu desconegut",
+    "Welcome to Element": "Us donem la benvinguda a Element",
+    "You need to be using HTTPS to place a screen-sharing call.": "Heu d'utilitzar HTTPS per poder fer una trucada amb pantalla compartida.",
+    "powered by Matrix": "amb tecnologia de Matrix",
+    "Decentralised, encrypted chat &amp; collaboration powered by [matrix]": "Xat descentralitzat, encriptat i col·laboratiu amb tecnologia de [matrix]",
+    "Create Account": "Crea un compte",
+    "Explore rooms": "Exploreu les sales",
+    "Sign In": "Inicia la sessió",
+    "Invalid configuration: no default server specified.": "Configuració no vàlida: no s'ha especificat cap servidor per defecte.",
+    "Invalid JSON": "JSON no vàlid",
+    "Go to your browser to complete Sign In": "Aneu al vostre navegador per completar l'inici de sessió"
+}

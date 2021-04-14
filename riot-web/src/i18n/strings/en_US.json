@@ -1,0 +1,16 @@
+{
+    "Dismiss": "Dismiss",
+    "powered by Matrix": "powered by Matrix",
+    "Unknown device": "Unknown device",
+    "You need to be using HTTPS to place a screen-sharing call.": "You need to be using HTTPS to place a screen-sharing call.",
+    "Welcome to Element": "Welcome to Element",
+    "Decentralised, encrypted chat &amp; collaboration powered by [matrix]": "Decentralised, encrypted chat &amp; collaboration powered by [matrix]",
+    "Sign In": "Sign In",
+    "Create Account": "Create Account",
+    "Explore rooms": "Explore rooms",
+    "The message from the parser is: %(message)s": "The message from the parser is: %(message)s",
+    "Invalid JSON": "Invalid JSON",
+    "Unexpected error preparing the app. See console for details.": "Unexpected error preparing the app. See console for details.",
+    "Invalid configuration: can only specify one of default_server_config, default_server_name, or default_hs_url.": "Invalid configuration: can only specify one of default_server_config, default_server_name, or default_hs_url.",
+    "Invalid configuration: no default server specified.": "Invalid configuration: no default server specified."
+}
